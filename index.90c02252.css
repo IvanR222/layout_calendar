@@ -1,0 +1,2 @@
+.calendar{counter-reset:day;flex-wrap:wrap;justify-content:center;align-items:center;width:726px;margin:auto;padding:10px;display:flex;position:absolute;inset:0}.calendar__day{cursor:pointer;background-color:#eee;border:1px solid #000;justify-content:center;align-items:center;width:100px;height:100px;transition:all .5s;display:flex;position:relative}.calendar__day:hover{background-color:#ffbfc8;transform:translateY(-20px)}
+/*# sourceMappingURL=index.90c02252.css.map */
