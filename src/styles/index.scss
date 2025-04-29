@@ -22,12 +22,6 @@
   position: relative;
   transition: all 0.5s;
   cursor: pointer;
-  &::before {
-    content: counter(day);
-    counter-increment: day;
-    font-family: Arial, sans-serif;
-    font-size: 30px;
-  }
   &:hover {
     background-color: #ffbfc8;
     transform: translateY(-20px);
